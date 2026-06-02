@@ -1,5 +1,5 @@
 # Cloudflare wrangler configuration for backend worker deployment
-name = "tubetranslate-ai-api"
+name = "youtube-video"
 main = "worker.ts"
 compatibility_date = "2024-03-01"
 
