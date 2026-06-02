@@ -1,6 +1,6 @@
 # Cloudflare wrangler configuration for backend worker deployment
 #wrangler.toml
-name = 'youtube-video'"
+name = 'youtube-video'
 main = "worker.ts"
 compatibility_date = "2024-03-01"
 
