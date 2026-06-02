@@ -1,0 +1,6 @@
+{
+  "name": "TubeTranslate AI",
+  "description": "A professional YouTube Downloader assistant & AI Video Translator with multi-language support powered by Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
